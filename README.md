@@ -2,11 +2,11 @@
 
 ## Description
 A command-line application to generate logos as SVG files.
-![logo](../logo-maker/screenshots/logo.png)
+![logo](logo-maker/screenshots/logo.png)
 
 ## Video Walkthrough
 https://drive.google.com/file/d/1JKAWaSVD_DAsAqFD-YhejT1dDA0fOKXE/view
-![Screenshot](../logo-maker/screenshots/terminal.png)
+![Screenshot](logo-maker/screenshots/terminal.png)
 
 ## Installation
 1. Clone the repository
